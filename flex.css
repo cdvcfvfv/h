@@ -1,0 +1,36 @@
+body{
+	margin: 0px;
+}
+.red{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	background-color: red;
+	left: 50%;
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -250px;
+}
+
+.blue{
+	position: absolute;
+	width: 470px;
+	height: 470px;
+	background-color: blue;
+	margin: 15px;
+	left: 50%;
+	top: 50%;
+	margin-left: -235px;
+	margin-top: -235px;
+}
+.green{
+	position: absolute;
+	width: 440px;
+	height: 440px;
+	background-color: green;
+	margin: 30px;
+	left: 50%;
+	top: 50%;
+	margin-left: -220px;
+	margin-top: -220px;
+}
